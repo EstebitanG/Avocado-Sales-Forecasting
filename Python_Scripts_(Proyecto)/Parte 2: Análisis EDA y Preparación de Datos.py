@@ -110,8 +110,8 @@ axes[1].xaxis.set_major_formatter(formatter)
 plt.tight_layout()
 plt.show()
 
-print('Se puede visualizar que la demanda de palta convencional posee un coeficiente de correlación de -0.492, lo que señala que es un bien elástico\n')
-print('Se puede visualizar que la demanda de palta orgánica posee un coeficiente de correlación de -0.109, lo que señala que podría ser un bien suntuario\n')
+print('Se puede visualizar que la demanda de palta convencional posee un coeficiente de correlación de -0.492, lo que señala que es un bien elástico, es decir, los consumidores reacciones fuertemente a cambios en el precio.\n')
+print('Se puede visualizar que la demanda de palta orgánica posee un coeficiente de correlación de -0.109, lo que señala que hay una relación muy débil entre el precio de la palta orgánica y su demanda. Esto puede sugerir que la palta orgánica se mueve por otros determinantes.\n')
 
 print('Estos análisis sugieren lo siguiente: para la palta convencional, considerar el efecto estacional y el precio como variables relevantes para predecir es adecuado.')
 print('Para la palta orgánica, puede que el precio sea un predictor débil, y el modelo deba enfocarse más en patrones temporales/estacionales')
