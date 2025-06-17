@@ -1,4 +1,4 @@
-#Test Dick Fuller para comprobar estacionariedad (ADF - Augmented Dickey Fuller) para Palta Orgánica
+# Test Dick Fuller para comprobar estacionariedad (ADF - Augmented Dickey Fuller) para Palta Orgánica
 ![35](../images/35.png)
 # Serie diferenciada para palta orgánica
 ![36](../images/36.png)
