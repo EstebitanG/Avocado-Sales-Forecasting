@@ -7,6 +7,6 @@ df4 = pd.read_csv('avocado cleaned.csv', encoding = 'UTF-8', sep=',')
 
 print(df4)
 
-![pandas](../images/1.png)
+![1](../images/1.png)
 
 
