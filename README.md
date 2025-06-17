@@ -1,4 +1,4 @@
-# Avocado-Sales-Forecasting
+# Avocado Sales Forecasting
 Este proyecto forma parte de mi portfolio de Data Analytics y Data Science, donde se usa el lenguaje de programación Python aplicando técnicas estadísticas y de Machine Learning para realizar estimaciones (forecasting) de demanda de paltas en EE.UU.
 
 # Descripción General
