@@ -4,9 +4,6 @@
 ![36](../images/36.png)
 # Comprobación de estacionalidad (periodicidad) mediante gráfico de autocorrelación (ACF) para Palta Orgánica
 ![37](../images/37.png)
-# Comprobación de estacionalidad (periodicidad) mediante gráfico de autocorrelación (ACF) para Palta Orgánica 
-![38](../images/38.png)
-![39](../images/39.png)
 # Implementación SARIMA set entrenamiento y set de testeo - Palta Orgánica
 ![40](../images/40.png)
 ![41](../images/41.png)
