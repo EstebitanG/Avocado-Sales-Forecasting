@@ -14,7 +14,7 @@ Me queda pendiente una técnica adicional: Redes Neuronales Artificiales, espec�
 
 Por otro lado, omití hacer la predicción de los precios (AveragePrice), ya que su comportamiento era bastante uniforme a través de los años (a diferencia de la demanda de las paltas), por lo que la implementación de SARIMA y/o Prophet para esta variable hubiese resultado redundante para el propósito de este proyecto, el cual ya tiene una extensión considerable.
 
-Finalmente, puedo destacar que la finalización de este proyecto logra una mejoría en mi entendimiento del problema de regresión en Machine Learning, sus aplicaciones prácticas, y los desafíos respecto a las demás temáticas del área (Clasificación y Agrupación - Clustering).
+Finalmente, puedo destacar que la finalización de este proyecto logra una mejoría en mi entendimiento del problema de Regresión en Machine Learning, sus aplicaciones prácticas, y los desafíos respecto a las demás temáticas del área (Clasificación y Agrupación - Clustering).
 
 
 
