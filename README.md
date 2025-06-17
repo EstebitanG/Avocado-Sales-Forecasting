@@ -11,3 +11,5 @@ Primeramente se realizó la importación del archivo csv a Python, para luego pr
 El análisis de series temporales se basó primeramente en la aplicación de Regresiones Polinomiales, para luego seguir con un modelo clásico siendo SARIMA, y finalmente un modelo más reciente siendo Prophet de Facebook. Cada uno de los modelos tiene sus potencialidades y limitantes, las cuales se describen y comparan en el proyecto.
 
 Para este proyecto se utilizó principalmente Python para cumplir con la ruta de analista y científico de datos, desde la importación de la información, su procesamiento, aplicación de modelos y exportación del forecasting. 
+
+![Avocado Sales EEUU Python](../images/Avocado_EEUU.png)
