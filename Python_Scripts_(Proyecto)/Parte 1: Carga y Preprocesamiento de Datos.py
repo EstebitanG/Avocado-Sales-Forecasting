@@ -7,8 +7,6 @@ df4 = pd.read_csv('avocado cleaned.csv', encoding = 'UTF-8', sep=',')
 
 print(df4)
 
-![1](../images/1.png)
-
 #Preprocesamiento de datos
 
 print(df4.info())
@@ -46,8 +44,6 @@ print(f'Duplicados exactos: {duplicados_completos.sum()}')
 duplicados_compuesto =df4.duplicated(subset=['Date','type','region'])
 print(f'Duplicados por (Date, type, region): {duplicados_compuesto.sum()}')
 
-![2](../images/2.png)
-
 #Preparación de datos por región y tipo
 #Filtrar datos por tipo y región
 grouped_data = df4.groupby(['region','type','Date']).agg({
@@ -57,5 +53,3 @@ grouped_data = df4.groupby(['region','type','Date']).agg({
 
 #Revisar los primeros datos agrupados
 print(grouped_data)
-
-![3](../images/3.png)
