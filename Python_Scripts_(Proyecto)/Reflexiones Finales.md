@@ -12,7 +12,7 @@ Un punto fuerte de este proyecto fue la depuración constante de errores apareci
 
 Me queda pendiente una técnica adicional: Redes Neuronales Artificiales, específicamente Redes Neuronales Recurrentes (LSTM), que se dedican justamente a análisis de secuencias de tiempo, son parte del Machine Learning (DL), y que son una técnica más sofisticada que las implementadas en este proyecto. Si bien esto no asegura mejores resultados, vale la pena explorar esta herramienta y compararlas con los resultados de este proyecto.
 
-Por otro lado, omití hacer la predicción de los precios (AveragePrice), ya que su comportamiento era bastante uniforme a través de los años (a diferencia de la demanda de las paltas), por lo que la implementación de SARIMA y/o Prophet para esta variable hubiese resultado redundante para el propósito de este proyecto, el cual ya tiene una extensión considerable.
+Por otro lado, omití hacer la predicción de los precios (AveragePrice), ya que su comportamiento era bastante uniforme a través de los años (a diferencia de la demanda de las paltas), por lo que la implementación de SARIMA y/o Prophet para esta variable hubiese resultado redundante para el propósito de este proyecto, el cual ya tiene una extensión considerable. A su vez y por la misma razón, omití hacer el análisis por región, quedándonos con las predicciones en términos globales.
 
 Finalmente, puedo destacar que la finalización de este proyecto logra una mejoría en mi entendimiento del problema de Regresión en Machine Learning, sus aplicaciones prácticas, y los desafíos respecto a las demás temáticas del área (Clasificación y Agrupación - Clustering).
 
