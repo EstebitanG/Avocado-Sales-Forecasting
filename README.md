@@ -12,4 +12,5 @@ El análisis de series temporales se basó primeramente en la aplicación de Reg
 
 Para este proyecto se utilizó principalmente Python para cumplir con la ruta de analista y científico de datos, desde la importación de la información, su procesamiento, aplicación de modelos y exportación del forecasting. 
 
-![Avocado_EEUU](../images/Avocado_EEUU.png)
+![Avocado_EEUU](https://github.com/user-attachments/assets/9b758cc3-68fb-43aa-982a-60d287550a76)
+
