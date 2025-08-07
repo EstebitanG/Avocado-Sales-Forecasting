@@ -17,6 +17,11 @@ for key, value in result_conv_series[4].items():
     print(f'{key}: {value}')
 
 print('\n La variable (cantidad demandada palta convencional) según el test ADF es estacionaria.\n')
+print('Esto lo podemos comprobar porque:\n'
+      'ADF Statistic =-3.3, lo que señala estar en zona de rechazo de Ho.\n' 
+      'Lo mismo sucede con p-value= 0.013, es menor a 0.05, región de rechazo Ho.\n'
+      'Dado que el test Dickey Fuller se basa en un test de hipótesis para determinar si una serie temporal tiene raíz unitaria, es decir, no estacionaria,\n' \
+      'entonces al rechazar la hipotesis nula tenemos que nuestra variable es estacionaria.')
 print('Esto permite aplicar un modelo SARIMA directamente sin tener que diferenciar')
 
 # Comprobación de estacionalidad (periodicidad) mediante gráfico de autocorrelación (ACF) para Palta Convencional
