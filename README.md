@@ -12,5 +12,6 @@ El análisis de series temporales se basó primeramente en la aplicación de un 
 
 Para este proyecto se utilizó principalmente Python para cumplir con la ruta de analista y científico de datos, desde la importación de la información, su procesamiento, aplicación de modelos y exportación del forecasting. 
 
-![Avocado_EEUU](https://github.com/user-attachments/assets/9b758cc3-68fb-43aa-982a-60d287550a76)
+![Avocado_portada](https://github.com/user-attachments/assets/b530b4d5-bc87-4f6c-bd44-c9f233439b96)
+
 
