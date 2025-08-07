@@ -2,7 +2,7 @@
 
 Luego de haber finalizado este proyecto de forecasting usando herramientas estadísticas y de Machine Learning, puedo rescatar los siguientes aprendizajes:
 
-Pude mejorar en el dominio de la herramienta Python, cumpliendo con el flujo completo de análisis de datos e implementación de modelos de ML en ciencia de datos, es decir, limpieza, exploración (EDA), modelado tradicional, aprendizaje automático, evaluación, visualización e interpretación.
+Pude mejorar en el dominio de la herramienta Python, cumpliendo con el flujo completo de análisis de datos e implementación de modelos de ML en ciencia de datos, es decir, limpieza, exploración (EDA), modelo tradicional, aprendizaje automático, evaluación, visualización e interpretación.
 
 Tambien pude implementar conocimiento estadístico y econométrico para un contexto real generando resultados prácticos. 
 
